@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="deleteButton">Delete</string>
+    <string name="saveButton">Save</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="reload">Reload data</string>
+
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="photo">Photo</string>
+    <string name="phoneNumber">Phone number</string>
+    <string name="email">E-mail</string>
+    <string name="contactManager">Contact Manager</string>
+    <string name="detailedInformation">Detailed information</string>
+    <string name="changesSaved">Changes saved</string>
+</resources>
